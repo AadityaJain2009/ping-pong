@@ -1,0 +1,68 @@
+body{
+    background-image: url("back.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#head1{
+    font-family: 'cookie' , cursive;
+    font-size: 70px;
+}
+
+#header{
+    display: inline;
+    width: 100%;
+}
+
+#chocolate , #play {
+    float: right;
+    font-family: 'Times New Roman', Times, serif;
+    width:150px;
+    height: 60px;
+    margin-right: 90px;
+    font-size: 17px;
+}
+
+#hrr{
+    width: 95%;
+    border: solid lightslategray;
+}
+
+#status{
+    float: right;
+    font-family: 'Times New Roman', Times, serif;
+    height: 60px;
+    margin-right: 90px;
+    font-size: 17px;
+}
+.modal-dialog{
+    width: 90%;
+}
+.model-body{
+    font-size: 20px;
+}
+
+#reset{
+    float: right;
+    margin-right: 90px;
+    width: 150px;
+}
+
+#canvaso{
+    margin-top: -110px;
+    margin-left: -400px;
+}
+
+#mast{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#mastx2{
+    font-size: 35px;
+}
+
+video{
+    margin-left: 900px;
+    margin-top: -10000px;
+}
